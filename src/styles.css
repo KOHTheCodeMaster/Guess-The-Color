@@ -1,0 +1,22 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkslategray;
+}
+
+.color-tile {
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    background-color: blue;
+    margin: 10px;
+}
+
+#game-grid {
+    /*border: 5px solid black;*/
+}
