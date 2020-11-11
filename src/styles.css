@@ -9,14 +9,13 @@ body {
     background-color: darkslategray;
 }
 
+body header {
+    background-color: #007bff;
+}
+
 .color-tile {
     width: 200px;
     height: 200px;
-    border-radius: 20%;
-    background-color: blue;
+    border-radius: 15%;
     margin: 10px;
-}
-
-#game-grid {
-    /*border: 5px solid black;*/
 }
